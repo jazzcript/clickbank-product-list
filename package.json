@@ -1,0 +1,15 @@
+{
+  "name": "clickbank-product-list",
+  "version": "1.0.0",
+  "description": "Get ClickBank products online",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jazzcript",
+  "license": "ISC",
+  "dependencies": {
+    "webzip": "^1.0.0",
+    "xml2js": "^0.4.23"
+  }
+}
